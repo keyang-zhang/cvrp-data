@@ -1,0 +1,5 @@
+vehicle_id,depot_id,capacity,route_limit,carrier_id
+0,0,15,10000,0
+1,0,15,10000,1
+2,0,15,10000,2
+3,0,15,10000,3
